@@ -32,7 +32,7 @@ def imprime_calificaciones():
 
 asigna_calificaciones()
 imprime_calificaciones()
-
+# Fallé =( solo hice una función jajaj
 def promedio():
     suma= 0
     for b in becarios:
