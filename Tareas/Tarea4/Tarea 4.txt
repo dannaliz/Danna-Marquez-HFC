@@ -1,0 +1,13 @@
+Sun May 14 17:23:53 2017
+c371cc77dd2e470032a694fe9ffc4a75
+cd48797e72c3b7cf549789a7fbfc7e493542a9fd
+Cantidad de puertos prendidos: 4826
+Cantidad de piertos apagados: 60687
+Cantidad de puertos 22 abiertos: 4826
+Cantidad de piertos 53 abiertos: 4826
+Cantidad de puertos 80 abiertos: 4826
+Cantidad de puertos 443 abiertos: 4826
+Cantidad de puertos dominio: 4802
+Cantidad de puertos Apache: 500
+Cantidad de puertos Honey: 1220
+Cantidad de puertos Nginx: 54
